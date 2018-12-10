@@ -1,3 +1,4 @@
+// Taken from Linux Magazine #215
 package main
 
 import (
